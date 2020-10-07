@@ -1,0 +1,64 @@
+[
+  {
+    "id":1,
+    "title":"Reupholster a Chair",
+    "desc":"\npegboard shelves\nCourtesy of Vintage Revivals\n\nFor those seeking a useful way to spend their time during social distancing—or anyone simply interested in forging a deeper connection with their homes—HB has launched Home Love, a series of daily tips and ideas to make every minute indoors more productive (and gratifying!). We'll be sharing a new one every day until April 1st. Tag your own home project photos #homelove for everyone to enjoy!",
+    "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+    "image":"1.jpg"
+  },
+  {
+    "id":2,
+    "title":"Upgrade Your Closet Doors",
+    "desc":"Cursed with ugly, builder-grade closet doors? Try this surprisingly easy hack from our friend designer Keita Turner, to give them a bespoke look with just a few yards of fabric and a staple gun.",
+    "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+    "image":"2.jpg"
+  }, {
+  "id":3,
+  "title":"Propagate a Plant",
+  "desc":"Have plants at home? Great news: You can turn them into more plants. Here's our step-by-step guide to growing a new plant with cuttings from an older one. ",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"3.jpg"
+}, {
+  "id":4,
+  "title":"Swap in a Cool Doorknob",
+  "desc":"This is one of those small changes that makes a big impact. With just 10 minutes and a screwdriver, swap out old, boring doorknobs for something prettier. Here's how. ",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"4.jpg"
+}, {
+  "id":5,
+  "title":"Make Candles + Soaps",
+  "desc":"These DIY kits from Craftzee offer candles, soaps and bath bombs customizable in classic scents like fresh cotton and cherry blossom. Their pre-mixed bases are safe to use (read: no lye-mixing) and include plenty to make for friends and neighbors. Shop here.",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"5.jpg"
+}, {
+  "id":6,
+  "title":"Make a Set of No-Sew Curtains",
+  "desc":"Want new window treatments but no sewing machine (or seamstress skills) at home? No problem. I made this set in my apartment just using double-stick fabric tape. Get the tutorial here.",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"6.jpg"
+}, {
+  "id":7,
+  "title":"Make Professional-Grade Curtains ",
+  "desc":"If you can sew, why not make sone professional-level curtains? We had the founder of Stitchroom show us how to do it. Watch here.",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"7.jpg"
+}, {
+  "id":8,
+  "title":"Cover Up an Old Appliance",
+  "desc":"Steal this idea from Danielle Rollins and pretty up your ugly appliances with contact paper or vinyl wallpaper. Here's how.",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"8.jpg"
+}, {
+  "id":9,
+  "title":"Restyle Your Shelves ",
+  "desc":"Once you've been staring at your bookshelves long enough, they're bound to start bothering you. Get Eddie Ross's advice for three ways to style them here. Just please don't do any of these things.",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"9.jpg"
+}, {
+  "id":10,
+  "title":"Marbelize Your Countertops ",
+  "desc":"Yes, you can fake marble yourself—one of our editors tried it. Here's what she found out.",
+  "uri":"www.housebeautiful.com/home-remodeling/diy-projects/how-to/g1624/diy-solutions-easier-life/",
+  "image":"10.jpeg"
+}
+]
